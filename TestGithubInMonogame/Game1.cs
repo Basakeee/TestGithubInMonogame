@@ -17,6 +17,7 @@ namespace TestGithubInMonogame
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
+            int gay = 69;
         }
 
         protected override void Initialize()
