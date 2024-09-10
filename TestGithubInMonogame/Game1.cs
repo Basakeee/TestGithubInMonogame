@@ -34,6 +34,8 @@ namespace TestGithubInMonogame
 
         protected override void LoadContent()
         {
+            Texture2D zezanaNGO;
+
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
