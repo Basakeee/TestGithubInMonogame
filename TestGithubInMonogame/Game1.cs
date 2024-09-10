@@ -11,6 +11,7 @@ namespace TestGithubInMonogame
         //HeHe_basake
         //HelpMe!!!!!
         //Cry
+        //Crying
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
