@@ -8,7 +8,11 @@ namespace TestGithubInMonogame
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-
+        Texture2D monkeyking;
+        Texture2D Wukong;
+        Texture2D BlasterBlade;
+        int BlueEyeWhiteDragon;
+        int DragonicOverlord;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
