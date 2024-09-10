@@ -8,10 +8,7 @@ namespace TestGithubInMonogame
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-        //HeHe_basake
-        //HelpMe!!!!!
-        //Cry
-        //Crying
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
@@ -24,6 +21,11 @@ namespace TestGithubInMonogame
             // TODO: Add your initialization logic here
 
             base.Initialize();
+        }
+
+        protected void HEHE()
+        {
+
         }
 
         protected override void LoadContent()
