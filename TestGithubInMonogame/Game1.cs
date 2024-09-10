@@ -8,13 +8,16 @@ namespace TestGithubInMonogame
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-        private string bugForSure = "Im not the one who gonna need to fix the conflict so yay !!";
 
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
+        }
+        protected void ImNotaBug()
+        {
+
         }
 
         protected override void Initialize()
