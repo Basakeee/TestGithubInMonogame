@@ -8,6 +8,7 @@ namespace TestGithubInMonogame
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        Texture2D zezanaNGO;
 
         public Game1()
         {
