@@ -13,6 +13,7 @@ namespace TestGithubInMonogame
         Texture2D BlasterBlade;
         int BlueEyeWhiteDragon;
         int DragonicOverlord;
+        //
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
