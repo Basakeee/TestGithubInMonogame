@@ -9,6 +9,7 @@ namespace TestGithubInMonogame
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         //HeHe_basake
+        //HelpMe!!!!!
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
