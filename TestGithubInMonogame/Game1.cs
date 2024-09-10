@@ -19,6 +19,10 @@ namespace TestGithubInMonogame
             IsMouseVisible = true;
             int gay = 69;
         }
+        protected void ImNotaBug()
+        {
+
+        }
 
         protected override void Initialize()
         {
