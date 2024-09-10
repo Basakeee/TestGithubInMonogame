@@ -52,5 +52,9 @@ namespace TestGithubInMonogame
 
             base.Draw(gameTime);
         }
+        private void Erroz()
+        {
+
+        }
     }
 }
