@@ -8,7 +8,6 @@ namespace TestGithubInMonogame
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
@@ -57,6 +56,10 @@ namespace TestGithubInMonogame
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
+        }
+        private void Erroz()
+        {
+
         }
     }
 }
